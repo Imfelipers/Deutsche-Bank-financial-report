@@ -14,3 +14,4 @@ Equity has shown a declining trend during this period, which could indicate that
 
 In summary, while the bank has maintained a stable dividend distribution policy and has managed its net income cautiously, the declines in 2017, both in income and equity, suggest that external factors may have influenced its performance.
 
+https://app.powerbi.com/groups/me/reports/5bb65b04-2451-4060-85f0-41a5558d20d9?ctid=9cd0e24a-1aa3-4897-b291-9c8ac54be63e&pbi_source=linkShare
